@@ -2,8 +2,8 @@
 Dummy Restaurant Dashboard for Loop Internship Task
 
  Instruction for deployment: 
-    npm i 
-    npm start
+   npm i 
+   npm start
     
  Technologies used for this project:
  - react
