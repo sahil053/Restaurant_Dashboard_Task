@@ -6,6 +6,9 @@ Dummy Restaurant Dashboard for Loop Internship Task | Link- https://restaurant-d
     npm i 
     npm start
     
+login Page Details-
+ id: user1 | password: password1
+
  Technologies used for this project:
  - react
  - html
